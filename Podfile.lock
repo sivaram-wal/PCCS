@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.7.0)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - BuddyBuildSDK (1.0.17)
+  - MBProgressHUD (0.9.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireImage (~> 3.3.0)
+  - BuddyBuildSDK
+  - MBProgressHUD (~> 0.9.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - BuddyBuildSDK
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  BuddyBuildSDK: 8ae12ee721098b356a961ea7dce70ae55f93a7d2
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+
+PODFILE CHECKSUM: e4a67c4a677e7110bc117a47724e2dbd785adb93
+
+COCOAPODS: 1.5.0
